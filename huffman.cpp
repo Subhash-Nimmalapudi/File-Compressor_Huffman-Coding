@@ -200,6 +200,7 @@ void huffman::saveDecodedFile() {
             }
         }
     }
+    
     inFile.close();
     outFile.close();
 }
